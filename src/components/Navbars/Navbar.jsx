@@ -34,10 +34,6 @@ const Navbar = () => {
 					</li>
 					<li className=" hover:scale-110 transition ease-in-out duration-150">
 						{" "}
-						<a href="#blog">Blog</a>
-					</li>
-					<li className=" hover:scale-110 transition ease-in-out duration-150">
-						{" "}
 						<a href="#achievements">Achievements</a>
 					</li>
 

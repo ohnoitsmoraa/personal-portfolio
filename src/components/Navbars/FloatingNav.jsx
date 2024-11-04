@@ -14,7 +14,6 @@ const FloatingNav = () => {
 		{ id: 1, link: "#about", icon: <FaUser /> },
 		{ id: 1, link: "#projects", icon: <FaRocket /> },
 		{ id: 1, link: "#work", icon: <FaBlackTie /> },
-		{ id: 1, link: "#blog", icon: <FaPenToSquare /> },
 		{ id: 1, link: "#achievements", icon: <FaStar /> },
 		{ id: 1, link: "#contact", icon: <FaEnvelope /> },
 	];
@@ -28,7 +27,6 @@ const FloatingNav = () => {
 					"about",
 					"projects",
 					"work",
-					"blog",
 					"achievements",
 					"contact",
 				]}
